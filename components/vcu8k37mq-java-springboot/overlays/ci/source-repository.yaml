@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vcu8k37mq-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vcu8k37mq-java-springboot
